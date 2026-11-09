@@ -2,6 +2,8 @@
 name = "moo"
 version = "0.0.4"
 edition = "2024"
+description = "KheMoos general physics engine for real-world simulation"
+repository = "https://github.com/KheMoos/Moo"
 
 [lib]
 crate-type = ["cdylib", "rlib"]

@@ -1,3 +1,5 @@
+> Repository split: rendering and the viewer now live in [KheMoos/Khe](https://github.com/KheMoos/Khe). This document retains historical planning; current work is tracked in repository issues.
+
 # Task: PhysicLaw Development Roadmap
 
 ## Phase 1: Foundational Design & Structuring [x]
