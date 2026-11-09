@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="docs/assets/moo-moon-v1.png" alt="Moo, the golden crescent moon" width="220">
+  <img src="docs/assets/moo-moon-v1.png" alt="Moo icon" width="220">
 </p>
 
 # Moo
 
-**Moo is the moon: the general physics engine of [KheMoos](https://github.com/KheMoos).**
+**Moo is a Rust general physics engine for real-world simulation and bulk execution.**
 
-Moo develops our own Rust foundation for physical state, laws, materials, constraints, and solvers. Its intended real-world scope includes rigid bodies, fluids, deformable solids, thermal systems, and their interactions. [Khe](https://github.com/KheMoos/Khe), the whale, is the companion rendering engine.
+Moo develops our own Rust foundation for physical state, laws, materials, constraints, and solvers. Its intended real-world scope includes rigid bodies, fluids, deformable solids, thermal systems, and their interactions. [Khe](https://github.com/KheMoos/Khe) is the companion rendering engine.
 
 ## Current state
 
