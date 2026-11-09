@@ -35,3 +35,9 @@ Rendering and the interactive viewer now live in [KheMoos/Khe](https://github.co
 ## Development direction
 
 Build reusable physics abstractions with explicit units, physical assumptions, validation cases, and measured numerical accuracy. Headless and bulk execution are core requirements. Rendering remains a separate concern exposed through a documented engine boundary.
+
+## Dependency and development priority
+
+Moo does not depend on Khe. It must support headless simulation and validation independently. Khe currently consumes Moo through its viewer; the intended architecture separates that integration from an independently usable rendering core.
+
+Development starts with **Moo correctness, physical validation, and reliable bulk execution**. Advanced rendering follows a stable simulation interface. See [engine boundaries and development order](docs/ARCHITECTURE.md).
